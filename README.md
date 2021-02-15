@@ -1,9 +1,9 @@
-<center>
+<div align="center">
 
 ![Icon](.github/mushroom.png)
 # Super Mario Bros
 
-</center>
+</div>
 
 A fan-made version of the epic SMB game, implemented using Spark AR Studio. 
 
